@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="hello">Hello there</string>
+    <string name="say_hello">Say Hello</string>
+</resources>
